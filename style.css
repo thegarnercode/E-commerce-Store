@@ -1,0 +1,22 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
+
+main{
+    text-align: center;
+    display: flex;
+    
+}
+
+img {
+    border: 5px solid ;
+    display: flex;
+    justify-content: space-between;
+  }
+
+    
+
